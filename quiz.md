@@ -22,10 +22,9 @@ The following question set is adapted from the pre-interview assessment form use
 
 > Refer to `threemodels.png` directly in the same directory if the image is not rendered for the following question.
 
-4. You want a model that identify hateful tweets on Twitter and you're presented with three candidates (Model A, Model B, and Model C). You are asked to pick the model with the **highest precision**. Which of the following models have the highest precision?
-
 <img src="threemodels.png" title="model-comparison" style="height:300px;">
 
+4. You want a model that identify hateful tweets on Twitter and you're presented with three candidates (Model A, Model B, and Model C). You are asked to pick the model with the **highest precision**. Which of the following models have the highest precision?
     - [ ] Model A
     - [ ] Model B
     - [ ] Model C
